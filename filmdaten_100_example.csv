@@ -1,0 +1,101 @@
+Film_ID,Titel,Regisseur,Genre,Erscheinungsjahr,Schauspieler,Produktionsfirma,Laufzeit_Minuten,Bewertung_IMDb,Bewertung_RottenTomatoes
+101,Film 1,Christopher Nolan,Action,1998,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Warner Bros.,129,5.4,73
+102,Film 2,James Cameron,Drama,2003,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Warner Bros.,112,7.8,65
+103,Film 3,Lana Wachowski,Sci-Fi,1996,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Sony Pictures,176,7.7,91
+104,Film 4,James Cameron,Horror,1994,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Sony Pictures,165,9.3,72
+105,Film 5,Christopher Nolan,Drama,1999,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Universal Pictures,129,7.4,72
+106,Film 6,Lana Wachowski,Drama,1991,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Universal Pictures,99,8.5,79
+107,Film 7,Quentin Tarantino,Horror,2014,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Paramount Pictures,103,7.9,71
+108,Film 8,Steven Spielberg,Adventure,1990,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Warner Bros.,106,8.9,79
+109,Film 9,Christopher Nolan,Comedy,2019,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Universal Pictures,120,7.6,83
+110,Film 10,James Cameron,Horror,1990,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Paramount Pictures,159,7.1,90
+111,Film 11,Steven Spielberg,Adventure,2007,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Warner Bros.,155,7.6,77
+112,Film 12,Christopher Nolan,Sci-Fi,2000,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Universal Pictures,157,6.2,80
+113,Film 13,Christopher Nolan,Sci-Fi,2020,"Christian Bale, Heath Ledger, Aaron Eckhart",Warner Bros.,90,5.6,58
+114,Film 14,Steven Spielberg,Comedy,1996,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Sony Pictures,174,7.0,60
+115,Film 15,Steven Spielberg,Thriller,1990,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Paramount Pictures,167,5.8,95
+116,Film 16,James Cameron,Sci-Fi,2014,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Paramount Pictures,110,7.2,56
+117,Film 17,Steven Spielberg,Drama,1997,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Sony Pictures,135,7.0,59
+118,Film 18,Quentin Tarantino,Sci-Fi,2010,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",20th Century Fox,168,9.5,83
+119,Film 19,James Cameron,Thriller,2023,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Universal Pictures,138,8.5,93
+120,Film 20,Steven Spielberg,Action,2016,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Paramount Pictures,121,6.2,83
+121,Film 21,Quentin Tarantino,Thriller,1994,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Warner Bros.,136,5.6,91
+122,Film 22,Steven Spielberg,Action,2005,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",20th Century Fox,128,8.7,94
+123,Film 23,James Cameron,Sci-Fi,1993,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Sony Pictures,109,5.4,83
+124,Film 24,Steven Spielberg,Action,1998,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Sony Pictures,133,5.7,71
+125,Film 25,James Cameron,Drama,2002,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Universal Pictures,145,7.8,72
+126,Film 26,James Cameron,Comedy,2016,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Universal Pictures,171,9.5,88
+127,Film 27,Christopher Nolan,Action,2023,"Christian Bale, Heath Ledger, Aaron Eckhart",Universal Pictures,150,8.0,63
+128,Film 28,James Cameron,Adventure,2021,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Universal Pictures,95,8.5,65
+129,Film 29,Steven Spielberg,Horror,1993,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Sony Pictures,142,7.6,66
+130,Film 30,Quentin Tarantino,Horror,2020,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Warner Bros.,134,7.8,92
+131,Film 31,James Cameron,Horror,2006,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Warner Bros.,116,5.8,63
+132,Film 32,Lana Wachowski,Horror,2016,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Universal Pictures,150,5.2,93
+133,Film 33,Lana Wachowski,Sci-Fi,2011,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Warner Bros.,142,6.9,82
+134,Film 34,James Cameron,Thriller,1999,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Paramount Pictures,92,8.6,55
+135,Film 35,Quentin Tarantino,Comedy,1994,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Paramount Pictures,161,7.4,88
+136,Film 36,Christopher Nolan,Adventure,2006,"Christian Bale, Heath Ledger, Aaron Eckhart",20th Century Fox,104,8.9,81
+137,Film 37,Steven Spielberg,Comedy,2006,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Sony Pictures,138,6.4,65
+138,Film 38,Lana Wachowski,Thriller,1990,"Christian Bale, Heath Ledger, Aaron Eckhart",20th Century Fox,112,8.4,66
+139,Film 39,James Cameron,Adventure,2022,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Warner Bros.,150,5.4,80
+140,Film 40,Lana Wachowski,Horror,2022,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Paramount Pictures,155,5.1,88
+141,Film 41,Christopher Nolan,Adventure,2010,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Sony Pictures,126,7.9,76
+142,Film 42,Christopher Nolan,Thriller,1997,"Christian Bale, Heath Ledger, Aaron Eckhart",Sony Pictures,142,7.8,69
+143,Film 43,Christopher Nolan,Drama,2006,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Warner Bros.,126,5.0,91
+144,Film 44,Christopher Nolan,Horror,2008,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Warner Bros.,130,8.3,68
+145,Film 45,Lana Wachowski,Drama,1998,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Warner Bros.,99,7.9,67
+146,Film 46,Steven Spielberg,Adventure,2002,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Warner Bros.,133,6.4,92
+147,Film 47,Lana Wachowski,Sci-Fi,2015,"Christian Bale, Heath Ledger, Aaron Eckhart",Sony Pictures,127,7.7,72
+148,Film 48,James Cameron,Sci-Fi,2019,"Christian Bale, Heath Ledger, Aaron Eckhart",Sony Pictures,92,8.8,79
+149,Film 49,Lana Wachowski,Thriller,1996,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Paramount Pictures,158,9.0,94
+150,Film 50,Steven Spielberg,Thriller,1996,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Universal Pictures,153,6.1,60
+151,Film 51,Lana Wachowski,Thriller,1990,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Warner Bros.,101,6.0,70
+152,Film 52,Lana Wachowski,Action,2018,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Warner Bros.,103,7.8,52
+153,Film 53,Lana Wachowski,Horror,1996,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Warner Bros.,137,6.9,72
+154,Film 54,James Cameron,Action,2001,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Sony Pictures,103,9.1,74
+155,Film 55,Christopher Nolan,Action,1996,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Warner Bros.,163,9.2,69
+156,Film 56,Steven Spielberg,Thriller,2013,"Christian Bale, Heath Ledger, Aaron Eckhart",Sony Pictures,156,7.0,91
+157,Film 57,Steven Spielberg,Sci-Fi,1999,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Sony Pictures,155,7.2,51
+158,Film 58,Lana Wachowski,Drama,1994,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",20th Century Fox,158,7.5,72
+159,Film 59,Quentin Tarantino,Sci-Fi,2006,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Paramount Pictures,98,8.0,70
+160,Film 60,Christopher Nolan,Drama,2017,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Universal Pictures,114,8.4,52
+161,Film 61,Christopher Nolan,Horror,1996,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Sony Pictures,121,8.3,95
+162,Film 62,Lana Wachowski,Thriller,2000,"Christian Bale, Heath Ledger, Aaron Eckhart",20th Century Fox,173,9.3,59
+163,Film 63,Lana Wachowski,Drama,1991,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Warner Bros.,112,7.9,69
+164,Film 64,Quentin Tarantino,Thriller,1990,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Sony Pictures,138,7.6,90
+165,Film 65,Christopher Nolan,Comedy,2020,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Paramount Pictures,102,8.7,94
+166,Film 66,Lana Wachowski,Sci-Fi,1993,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Warner Bros.,153,7.0,55
+167,Film 67,James Cameron,Adventure,2007,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Sony Pictures,122,7.8,76
+168,Film 68,Quentin Tarantino,Horror,2006,"Christian Bale, Heath Ledger, Aaron Eckhart",Universal Pictures,137,7.6,57
+169,Film 69,Quentin Tarantino,Comedy,2008,"Christian Bale, Heath Ledger, Aaron Eckhart",Sony Pictures,142,9.0,71
+170,Film 70,Lana Wachowski,Adventure,2004,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Sony Pictures,179,7.2,74
+171,Film 71,Lana Wachowski,Comedy,2019,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Warner Bros.,173,8.7,51
+172,Film 72,Quentin Tarantino,Adventure,1995,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Sony Pictures,126,9.1,66
+173,Film 73,Steven Spielberg,Horror,2023,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Warner Bros.,122,9.3,95
+174,Film 74,James Cameron,Action,1993,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Warner Bros.,110,8.6,67
+175,Film 75,James Cameron,Action,2014,"Christian Bale, Heath Ledger, Aaron Eckhart",Paramount Pictures,93,6.2,86
+176,Film 76,Lana Wachowski,Action,2019,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Universal Pictures,178,9.2,94
+177,Film 77,Lana Wachowski,Drama,2009,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Sony Pictures,171,6.5,52
+178,Film 78,Christopher Nolan,Sci-Fi,2009,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Universal Pictures,110,6.0,96
+179,Film 79,James Cameron,Drama,2007,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Sony Pictures,140,7.0,70
+180,Film 80,Quentin Tarantino,Comedy,2016,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Sony Pictures,140,6.8,99
+181,Film 81,Christopher Nolan,Action,1991,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Universal Pictures,149,8.4,73
+182,Film 82,Quentin Tarantino,Horror,1999,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Universal Pictures,128,5.0,81
+183,Film 83,Steven Spielberg,Horror,2014,"Sam Worthington, Zoe Saldana, Sigourney Weaver",20th Century Fox,108,5.7,87
+184,Film 84,Lana Wachowski,Adventure,2011,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Sony Pictures,128,5.6,70
+185,Film 85,Steven Spielberg,Drama,1995,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Universal Pictures,162,7.8,93
+186,Film 86,Quentin Tarantino,Thriller,2014,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Paramount Pictures,108,9.3,59
+187,Film 87,Lana Wachowski,Sci-Fi,2009,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",20th Century Fox,152,6.5,98
+188,Film 88,Lana Wachowski,Drama,2022,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Paramount Pictures,91,8.3,99
+189,Film 89,Steven Spielberg,Adventure,2008,"Sam Worthington, Zoe Saldana, Sigourney Weaver",20th Century Fox,168,6.2,97
+190,Film 90,Christopher Nolan,Action,2002,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Sony Pictures,168,6.8,63
+191,Film 91,Quentin Tarantino,Drama,2009,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Sony Pictures,138,6.3,86
+192,Film 92,Quentin Tarantino,Adventure,2000,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Sony Pictures,146,7.5,70
+193,Film 93,James Cameron,Thriller,1999,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Warner Bros.,143,6.5,56
+194,Film 94,James Cameron,Adventure,1996,"Sam Worthington, Zoe Saldana, Sigourney Weaver",Warner Bros.,175,9.1,78
+195,Film 95,James Cameron,Drama,1999,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",20th Century Fox,110,7.4,86
+196,Film 96,Lana Wachowski,Drama,2005,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",20th Century Fox,106,9.5,78
+197,Film 97,Christopher Nolan,Action,1999,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Paramount Pictures,114,8.9,85
+198,Film 98,Lana Wachowski,Sci-Fi,2001,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Paramount Pictures,146,5.7,83
+199,Film 99,Lana Wachowski,Horror,2020,"Christian Bale, Heath Ledger, Aaron Eckhart",Paramount Pictures,155,7.8,83
+200,Film 100,Christopher Nolan,Drama,1994,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Warner Bros.,109,5.4,75
