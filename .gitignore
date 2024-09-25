@@ -1,5 +1,7 @@
 # Ignoriere alle CSV-Dateien
 *.csv
+!filmdaten_100_example.csv
+!filmdaten_metadaten_example.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
