@@ -1,0 +1,31 @@
+Für ein Filmempfehlungssystem sind verschiedene Arten von Daten erforderlich, um personalisierte und relevante Empfehlungen zu generieren. Hier sind die wichtigsten Datenkategorien:
+
+Filmdaten (Metadaten)
+
+Titel, Regisseur, Genre, Erscheinungsjahr
+Schauspieler, Produktionsfirma, Laufzeit
+Bewertungen (IMDb, Rotten Tomatoes, etc.)
+Nutzerbezogene Daten
+
+Demografische Informationen: Alter, Geschlecht, Standort (optional)
+Interessen und Vorlieben: Lieblingsgenres, bevorzugte Schauspieler/Regisseure
+Historische Daten: Welche Filme wurden angesehen, bewertet, hinzugefügt, abgebrochen?
+Bewertungen/Reviews: Nutzerratings und Kommentare zu Filmen
+Nutzerverhalten
+
+Sehdauer: Wann und wie lange wird ein Film gesehen?
+Abspielverhalten: Filme pausieren, wiederholen, vorzeitig abbrechen
+Häufigkeit und Uhrzeit der Nutzung der Plattform
+Zusätzliche Daten
+
+Soziale Verbindungen: Empfehlungen basierend auf dem, was Freunde oder ähnliche Nutzer angesehen haben
+Trenddaten: Was ist aktuell beliebt oder wird stark diskutiert?
+Eventuell externe Daten: Wetter, Tageszeit oder aktuelle Ereignisse, die das Filmverhalten beeinflussen könnten
+Explizites Feedback
+
+Vom Nutzer angegebene Präferenzen, z. B. durch Fragebögen oder direkten Auswahl von Favoriten.
+Algorithmen für Empfehlungen
+
+Kollaboratives Filtern: Empfehlungen basierend auf Ähnlichkeiten zwischen Nutzern.
+Content-basiertes Filtern: Empfehlungen basierend auf den Merkmalen der Filme, die der Nutzer bereits gesehen und gemocht hat.
+Hybride Methoden: Kombination beider Ansätze für genauere Empfehlungen.
