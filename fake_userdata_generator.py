@@ -38,6 +38,6 @@ if __name__ == '__main__':
     try:
         total_records = int(input("Geben Sie die Anzahl der zu generierenden Datensätze ein: "))
         generate_fake_data(total_records)
-        print(f"{total_records} Datensätze wurden in 'fake_data.csv' gespeichert.")
+        print(f"{total_records} Datensätze wurden in 'fake_userdata.csv' gespeichert.")
     except ValueError:
         print("Bitte geben Sie eine gültige Zahl ein.")
