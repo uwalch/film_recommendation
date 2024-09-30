@@ -1,9 +1,14 @@
 from faker import Faker
 import csv
+import random
+
+# Setze den Seed für wiederholbare Ergebnisse
+Faker.seed(1234)
+
 
 def generate_fake_data(total_records):
     fake = Faker('de_DE')
-    fieldnames = ['Vorname', 'Nachname', 'Stadt', 'Alter', 'Geschlecht']
+    fieldnames = ['KundenNr','Vorname', 'Nachname', 'Stadt', 'Alter', 'Geschlecht']
 
     with open('fake_userdata.csv', 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -18,8 +23,10 @@ def generate_fake_data(total_records):
             nachname = fake.last_name()
             stadt = fake.city()
             alter = fake.random_int(min=18, max=90)
+            kundennr = fake.unique.random_int(min=10000, max=100000000)
 
             writer.writerow({
+                'KundenNr': kundennr,
                 'Vorname': vorname,
                 'Nachname': nachname,
                 'Stadt': stadt,
