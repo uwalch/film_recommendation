@@ -1,0 +1,6 @@
+Film_ID,Titel,Regisseur,Genre,Erscheinungsjahr,Schauspieler,Produktionsfirma,Laufzeit_Minuten,Bewertung_IMDb,Bewertung_RottenTomatoes
+101,Inception,Christopher Nolan,Sci-Fi,2010,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",Warner Bros.,148,8.8,87
+102,The Matrix,Lana Wachowski,Action,1999,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Warner Bros.,136,8.7,88
+103,Interstellar,Christopher Nolan,Sci-Fi,2014,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",Paramount Pictures,169,8.6,72
+104,Avatar,James Cameron,Adventure,2009,"Sam Worthington, Zoe Saldana, Sigourney Weaver",20th Century Fox,162,7.8,82
+105,The Dark Knight,Christopher Nolan,Action,2008,"Christian Bale, Heath Ledger, Aaron Eckhart",Warner Bros.,152,9.0,94
